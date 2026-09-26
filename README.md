@@ -62,3 +62,9 @@ All your pity, inventory, and history are saved automatically on your device.
 git clone https://github.com/YOUR_USERNAME/Genshin-Impact-Wish-Simulator.git
 cd Genshin-Impact-Wish-Simulator
 npm install
+
+Development server
+Bashnpm run dev
+Build the extension
+Bashnpm run build
+After building, the ready-to-load extension will be inside the build/ folder.
